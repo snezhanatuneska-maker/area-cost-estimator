@@ -1,18 +1,18 @@
 ﻿Sector;Subsector;Area_m2;Cost_EUR;Year;Confidence
 Thermotechnical Installations;Hospital;950;128.000;2025;verified
-Thermotechnical Installations;Kindergarten;1.000;800.000;2024;verified
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
-;;;;;
+Thermotechnical Installations;Hospital;820;106.000;2024;verified
+Thermotechnical Installations;Hospital;1.150;158.000;2025;verified
+Thermotechnical Installations;Hospital;690;88.000;2023;verified
+Thermotechnical Installations;Hospital;1.400;340.000;2022;estimated
+Thermotechnical Installations;Factory;2.200;214.000;2025;verified
+Thermotechnical Installations;Factory;3.100;289.000;2024;verified
+Thermotechnical Installations;Factory;1.800;176.000;2025;verified
+Thermotechnical Installations;Office building;640;71.000;2024;verified
+Thermotechnical Installations;Office building;980;104.000;2025;verified
+Thermotechnical Installations;Office building;520;58.000;2023;verified
+Gas & LPG Systems;Factory;1.500;92.000;2025;verified
+Gas & LPG Systems;Factory;2.600;151.000;2024;verified
+Gas & LPG Systems;Factory;1.100;68.000;2023;verified
 ;;;;;
 ;;;;;
 ;;;;;
