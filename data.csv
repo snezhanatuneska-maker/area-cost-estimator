@@ -1,18 +1,18 @@
 ﻿Sector;Subsector;Area_m2;Cost_EUR;Year;Confidence
-Thermotechnical Installations;Hospital;950;128.000;2025;verified
+Thermotechnical Installations;Hospital;950;128000;2025;verified
 Thermotechnical Installations;Hospital;820;106000;2024;verified
-Thermotechnical Installations;Hospital;1150;106000;2025;verified
-Thermotechnical Installations;Hospital;690;106000;2023;verified
-Thermotechnical Installations;Hospital;1400;106000;2022;estimated
-Thermotechnical Installations;Factory;2200;106000;2025;verified
-Thermotechnical Installations;Factory;3100;106000;2024;verified
-Thermotechnical Installations;Factory;1800;106000;2025;verified
-Thermotechnical Installations;Office building;640;106000;2024;verified
-Thermotechnical Installations;Office building;980;106000;2025;verified
-Thermotechnical Installations;Office building;520;106000;2023;verified
-Gas & LPG Systems;Factory;1500;106000;2025;verified
-Gas & LPG Systems;Factory;2600;106000;2024;verified
-Gas & LPG Systems;Factory;1100;106000;2023;verified
+Thermotechnical Installations;Hospital;1150;158000;2025;verified
+Thermotechnical Installations;Hospital;690;88000;2023;verified
+Thermotechnical Installations;Hospital;1400;340000;2022;estimated
+Thermotechnical Installations;Factory;2200;214000;2025;verified
+Thermotechnical Installations;Factory;3100;289000;2024;verified
+Thermotechnical Installations;Factory;1800;176000;2025;verified
+Thermotechnical Installations;Office building;640;71000;2024;verified
+Thermotechnical Installations;Office building;980;104000;2025;verified
+Thermotechnical Installations;Office building;520;58000;2023;verified
+Gas & LPG Systems;Factory;1500;92000;2025;verified
+Gas & LPG Systems;Factory;2600;151000;2024;verified
+Gas & LPG Systems;Factory;1100;68000;2023;verified
 ;;;;;
 ;;;;;
 ;;;;;
