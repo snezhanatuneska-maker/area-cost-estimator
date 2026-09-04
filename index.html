@@ -327,7 +327,7 @@
 
     document.getElementById("resultFigure").textContent = `€${fmt(area * med)}`;
     document.getElementById("resultRange").textContent =
-      `Likely range: €${fmt(area * p25)} – €${fmt(area * p75)}  (€${fmt(p25)}–€${fmt(p75)} / m²)`;
+      `Likely range: €${fmt(area * p25)} – €${fmt(area * p75)}`;
     document.getElementById("resultMeta").textContent =
       `Based on ${matches.length} comparable verified project${matches.length === 1 ? '' : 's'}` +
       (subsector ? ` — ${subsector.toLowerCase()}` : '') + `.`;
